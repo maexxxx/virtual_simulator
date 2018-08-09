@@ -8,4 +8,4 @@ Das Projekt "Virtual Simulator" beinhaltet alle Artefakte, welche es benötigt, 
 - Node-RED
 - WebSockets
 - Sprachsteuerung
-- Bildeerkennung mittels eigens erstelltem Machine Learning Model
+- Bilderkennung mittels eigens erstelltem Machine Learning Model
